@@ -1,1 +1,0 @@
-# Electrical-Tariff-Calculator-using-Python
